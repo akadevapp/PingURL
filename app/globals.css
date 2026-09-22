@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  color: #1B2430;
+  background: #FFFFFF;
+}
+
+::selection {
+  background: #E4EEEC;
+  color: #1B2430;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
