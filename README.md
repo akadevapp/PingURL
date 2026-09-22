@@ -1,4 +1,4 @@
-# PingLink
+# PingURL
 
 > Get messages without giving out your phone number.
 
